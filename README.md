@@ -157,7 +157,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more
 <!-- CONTACT -->
 ## Contact
 
-**SowmikSudo** ***(Maintainer)***
+**SowmikSudo& Collected by-MADMAXX** ***(Maintainer)***
 - [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ign0r3dh4x0r)&nbsp;
 - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SowmikSudo)&nbsp;
 
