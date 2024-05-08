@@ -157,11 +157,11 @@ Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more
 <!-- CONTACT -->
 ## Contact
 
-**SowmikSudo** ***(Maintainer)***
+**MADMAXX** ***(Maintainer)***
 - [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ign0r3dh4x0r)&nbsp;
 - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SowmikSudo)&nbsp;
 
-**Team X 1337**
+**MADMAXX WORLD**
 - [![Facebook Group](https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/groups/team.x.official.community)&nbsp;
 - [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
 - [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Teamx1337official)&nbsp;
